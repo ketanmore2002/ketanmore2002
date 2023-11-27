@@ -1,59 +1,51 @@
-<h2 align="left">Hi 👋! My name is Ketan and I'm a fullstack developer, from India</h2>
+# Hi there! 👋 I'm Ketan
 
-###
+### I believe projects speak louder then grades !
 
-<img align="right" height="150" src=" https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"  />
+I'm a passionate Full Stack Django Developer with a love for creating robust and scalable web applications. Welcome to my GitHub profile!
 
-###
+🚀 **Skills:**
+- **Backend:** Django, Django REST Framework
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap, Jquery
+- **Database:** PostgreSQL, SQLite
+- **Version Control:** Git, GitHub
+- **Deployment:** Heroku, Render
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="30" alt="heroku logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
+👨‍💻 **Projects:**
+- [NoBroker-Clone-With-Backend](https://github.com/ketanmore2002/NoBroker-Clone-With-Backend): Tenantly is a Django application that serves as a clone of NoBroker.com/rental-agreement, specifically focusing on rental agreements. It allows users to create rental agreements for their properties and provides a seamless dashboard experience for both users and admins. The application integrates the Paytm payments portal for convenient and secure payment processing.
 
-###
+- [Platform for events](https://github.com/ketanmore2002/Platform-for-events): The Events and Competitions Management System is a web application built using the Django framework. This application allows college admins to create and manage various events and competitions. Each event or competition has its own dedicated dashboard, accessible to the creator, for monitoring and managing participants.
 
-<div align="left">
-  <a href="https://www.instagram.com/ketanmore_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:moreketan2002.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/ketan-more-4247881ab/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+- [Educational Resource Planning](https://github.com/ketanmore2002/Educational-Resource-Planning): This comprehensive ERP system is designed to enhance the educational experience by providing a platform for teachers to create and conduct online lectures. The system leverages Django for its robust framework and incorporates Google Authentication for secure access.
 
-###
+🌱 **I'm currently learning:**
+- Deep Learning
+- Natural language processing
+
+📫 **Connect with me:**
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ketan-more-4247881ab/)
+
+💬 **Ask me about:**
+- Django development
+- Full Stack web development
+- Best practices in web development
+
+📈 **GitHub Stats:**
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ketanmore2002&show_icons=true&hide=contribs)](https://github.com/ketanmore2002)
+
+📊 **Top Languages:**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketanmore2002&layout=compact)](https://github.com/ketanmore2002)
+
+👯 **Looking to collaborate on:**
+- Open source Django projects
+- Innovative web applications
+
+🚧 **Currently working on:**
+- Project TabQA: Eliminating SQL,Pandas, Numpy instead using simple english to fetch data from Database.
+
+🎯 **Goals for the near future:**
+- Contribute to an open source project
+- Learn System Design
+- Get Job 😅
+
+Feel free to explore my repositories and don't hesitate to reach out! 😄
