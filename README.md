@@ -18,6 +18,8 @@ I'm a passionate Full Stack Django Developer with a love for creating robust and
 
 - [Educational Resource Planning](https://github.com/ketanmore2002/Educational-Resource-Planning): This comprehensive ERP system is designed to enhance the educational experience by providing a platform for teachers to create and conduct online lectures. The system leverages Django for its robust framework and incorporates Google Authentication for secure access.
 
+- [Data Logger - national institute of virology](https://github.com/ketanmore2002/web-logger-2):A robust data logger system using the Django framework to enhance and streamline data received from sensors which are located in the national institute of virology.The system provides a user-friendly platform for scientists to monitor various viruses in the laboratory.This application also uses mqtt protocol for sharing information with other government servers.
+  
 🌱 **I'm currently learning:**
 - Deep Learning
 - Natural language processing
