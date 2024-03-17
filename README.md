@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ketan
 
-I'm a passionate Full Stack Django Developer with a love for creating robust and scalable web applications. Welcome to my GitHub profile!
+Developer Specializing in Django Framework, Data Science,Machine Learning and Deep Learning.
 
 🚀 **Skills:**
 - **Backend:** Django, Django REST Framework
