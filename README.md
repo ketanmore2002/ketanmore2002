@@ -1,7 +1,5 @@
 # Hi there! 👋 I'm Ketan
 
-### I believe projects speak louder then grades !
-
 I'm a passionate Full Stack Django Developer with a love for creating robust and scalable web applications. Welcome to my GitHub profile!
 
 🚀 **Skills:**
@@ -25,7 +23,7 @@ I'm a passionate Full Stack Django Developer with a love for creating robust and
 - Natural language processing
 
 📫 **Connect with me:**
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ketan-more-4247881ab/)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ketan-more-4247881ab/)
 
 💬 **Ask me about:**
 - Django development
