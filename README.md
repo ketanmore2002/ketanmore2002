@@ -1,8 +1,21 @@
 # Hi there! 👋 I'm Ketan
 
-Developer Specializing in Django Framework, Data Science,Machine Learning and Deep Learning.
+Developer Specializing in Data Science, Machine Learning, Deep Learning and Django Framework.
 
 🚀 **Skills:**
+
+*Data Science*
+- **Machine Learning**
+- **Deep Learning**
+- **Data Analytics**
+- **Large laguage Models**
+- **Natural Laguage Processing**
+- **Pysparck**
+- **Feature Extraction**
+- **Pandas, Numpy, Seaborn, Matplotlib, NLTK, Spacy and Many More...**
+
+*FullStack*
+
 - **Backend:** Django, Django REST Framework
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap, Jquery
 - **Database:** PostgreSQL, SQLite
@@ -18,17 +31,19 @@ Developer Specializing in Django Framework, Data Science,Machine Learning and De
 
 - [Data Logger - national institute of virology](https://github.com/ketanmore2002/web-logger-2):A robust data logger system using the Django framework to enhance and streamline data received from sensors which are located in the national institute of virology.The system provides a user-friendly platform for scientists to monitor various viruses in the laboratory.This application also uses mqtt protocol for sharing information with other government servers.
   
-🌱 **I'm currently learning:**
-- Deep Learning
-- Natural language processing
 
 📫 **Connect with me:**
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ketan-more-4247881ab/)
 
 💬 **Ask me about:**
+- Data Science
+- Data Analytics
+- Large laguage Models
+- Natural Laguage Processing
+- Machine Learning
+- Deep Learning
 - Django development
 - Full Stack web development
-- Best practices in web development
 
 📈 **GitHub Stats:**
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ketanmore2002&show_icons=true&hide=contribs)](https://github.com/ketanmore2002)
