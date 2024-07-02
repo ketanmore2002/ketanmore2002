@@ -5,6 +5,8 @@ Developer Specializing in Data Science, Machine Learning, Deep Learning and Djan
 🚀 **Skills:**
 
 *Data Science*
+- **Generative AI**
+- **HuggingFace**
 - **Machine Learning**
 - **Deep Learning**
 - **Data Analytics**
@@ -23,6 +25,8 @@ Developer Specializing in Data Science, Machine Learning, Deep Learning and Djan
 - **Deployment:** Heroku, Render
 
 👨‍💻 **Projects:**
+- [tabqa: Natural Language to SQL Query Converter](https://pypi.org/project/tabqa/):Available on the Python Package Index, Tabqa empowers seamless interaction with databases by utilizing advanced LLM to translate human language queries into SQL commands. Revolutionize your data analysis workflow with Tabqa's efficiency and ease of use. ( pip install tabqa )
+  
 - [NoBroker-Clone-With-Backend](https://github.com/ketanmore2002/NoBroker-Clone-With-Backend): Tenantly is a Django application that serves as a clone of NoBroker.com/rental-agreement, specifically focusing on rental agreements. It allows users to create rental agreements for their properties and provides a seamless dashboard experience for both users and admins. The application integrates the Paytm payments portal for convenient and secure payment processing.
 
 - [Platform for events](https://github.com/ketanmore2002/Platform-for-events): The Events and Competitions Management System is a web application built using the Django framework. This application allows college admins to create and manage various events and competitions. Each event or competition has its own dedicated dashboard, accessible to the creator, for monitoring and managing participants.
