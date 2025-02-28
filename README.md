@@ -49,10 +49,6 @@ Developer Specializing in Data Science, Machine Learning, Deep Learning and Djan
 - Django development
 - Full Stack web development
 
-📈 **GitHub Stats:**
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ketanmore2002&show_icons=true&hide=contribs)](https://github.com/ketanmore2002)
-
-[![GitHub Repo stars](https://img.shields.io/github/stars/mbzuai-oryx/TimeTravel?style=social)
 
 📊 **Top Languages:**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketanmore2002&layout=compact)](https://github.com/ketanmore2002)
